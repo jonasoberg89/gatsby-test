@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{208:function(e,a,t){"use strict";t.r(a);var n=t(0),l=t.n(n),o=t(56),c=t(205),r=t(204);a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Lediga jobb"}),l.a.createElement("h1",null,"Lediga Jobb!!"),l.a.createElement("p",null,"we need you!"),l.a.createElement(o.a,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-job-js-f48419cb419add13a7ba.js.map

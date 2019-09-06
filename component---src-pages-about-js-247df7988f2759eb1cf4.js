@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{207:function(e,t,a){"use strict";a.r(t);var n=a(0),l=a.n(n),r=a(56),o=a(205),c=a(204);t.default=function(){return l.a.createElement(o.a,null,l.a.createElement(c.a,{title:"omforetaget"}),l.a.createElement("h1",null,"Om företaget"),l.a.createElement("p",null,"Vi dricker öl och äter vulkangrillad korv!"),l.a.createElement(r.a,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-247df7988f2759eb1cf4.js.map
